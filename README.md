@@ -18,7 +18,7 @@ Variables available include a unique ISBN identifier, date ordered, format, pric
 
 Variables selected: quantity ordered (dependent); price (independent).
 
-Noticeable Issues:
+**Noticeable Issues:
 
 Not necessarily clear that these are all unique titles. 
 
@@ -53,7 +53,7 @@ Auto-ARIMA Model
 
 ## Limitations and Future Work
 
-Limitations:
+**Limitations:
 
 Inaccurate forecasting
 
@@ -61,7 +61,7 @@ Unable to account for potential duplicates
 
 Variation in model selection by title (computationally intensive)
 
-Future Work:
+**Future Work:
 
 Hierarchical forecasting
 
